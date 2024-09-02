@@ -1,6 +1,6 @@
 # Smart India Hackathon Workshop
-# Date:25.8.24
-## Register Number:2400108
+# Date:25.08.2024
+## Register Number:24001082
 ## Name:MOHAMED RASHITH S
 ## Problem Title
 Development of e-Portal for facilitating Case Management Hearing of various types of cases
