@@ -34,10 +34,16 @@ Creating an e-Portal for facilitating case management and hearing can be a trans
 
 ## Proposed Solution / Architecture Diagram
 ![image](https://github.com/user-attachments/assets/57998baf-bbd9-4ae2-a307-7bf9829171de)
-
+<br>
+<br>
+<br>
 
 ## Use Cases
 ![image](https://github.com/user-attachments/assets/7779e429-3f75-41ea-9e95-0e3b07496547)
+
+<br>
+<br>
+<br>
 
 
 ## Technology Stack
@@ -52,6 +58,10 @@ Google maps
 Firebox Authenticator
 
 Git , Postman or Insomnia
+
+<br>
+<br>
+<br>
 
 ## Dependencies
 
